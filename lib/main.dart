@@ -1,6 +1,7 @@
-import 'package:flutter/material.dart';
+library widget_circular_animator;
 
-import 'circular_animator.dart';
+import 'package:flutter/material.dart';
+import 'package:my_business_card/circular_animator.dart';
 
 void main() => runApp(MyApp());
 
